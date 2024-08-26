@@ -1,6 +1,7 @@
 package com.rafael.curso.entities;
 
 import java.io.Serializable;
+
 import java.util.Objects;
 
 import jakarta.persistence.Entity;
